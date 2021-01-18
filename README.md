@@ -1,13 +1,10 @@
-# Clima-iOS-App
+# Clima iOS App
 
 Clima app made for iOS13 using Swift during iOS Develoment Bootcamp by AppBrewery
-
-#  Clima
 
 ## Description
 
 This application shows you the weather of your current location based on the GPS data from iPhone using  OpenWeatherMap API to grab live data from the internet. It also allows you to search the weather of a city manually. 
-
 
 ## Skills learned making this app
 
@@ -23,7 +20,8 @@ This application shows you the weather of your current location based on the GPS
 * Core Location to get the current location from the phone GPS.
 
 ## Screenshots
-<p>
+
+<p align="center">
     <img src="Screenshots/current_location_resistencia.png" width="300">
     <img src="Screenshots/manual_search_moscow.png" width="300">
     <img src="Screenshots/current_weather_moscow.png" width="300">
