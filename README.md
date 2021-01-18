@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Clima-iOS-App
+
 Clima app made for iOS13 using Swift during iOS Develoment Bootcamp by AppBrewery
-=======
 
 #  Clima
 
@@ -24,4 +23,9 @@ This application shows you the weather of your current location based on the GPS
 * Core Location to get the current location from the phone GPS.
 
 ## Screenshots
->>>>>>> master
+<p>
+    <img src="Screenshots/current_location_resistencia.png" width="300">
+    <img src="Screenshots/manual_search_moscow.png" width="300">
+    <img src="Screenshots/current_weather_moscow.png" width="300">
+    <img src="Screenshots/lima_dark_mode.png" width="300">
+</p>
