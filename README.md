@@ -24,6 +24,9 @@ This application shows you the weather of your current location based on the GPS
 <p align="center">
     <img src="Screenshots/current_location_resistencia.png" width="300">
     <img src="Screenshots/manual_search_moscow.png" width="300">
+</p>
+
+<p align="center">
     <img src="Screenshots/current_weather_moscow.png" width="300">
     <img src="Screenshots/lima_dark_mode.png" width="300">
 </p>
