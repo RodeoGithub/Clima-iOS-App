@@ -1,6 +1,6 @@
 # Clima iOS App
 
-Clima app made for iOS13 using Swift during iOS Develoment Bootcamp by AppBrewery
+Clima app made for iOS13 using Swift during iOS Development Bootcamp by AppBrewery
 
 ## Description
 
